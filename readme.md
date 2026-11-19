@@ -1,52 +1,45 @@
-# ⛧ mes4s3c
+<!--
+    MESA SEC // PROFILE README
+    IDENTITY: ANONYMOUS SECURITY RESEARCHER
+    ACCESS: RESTRICTED
+    THEME: PURPLE / BLACK / OCCULT / UNDERGROUND
+-->
 
-**cybersecurity / offensive security / digital research**
+<div align="center">
 
-`INDONESIA` · `INDEPENDENT` · `STILL EXPLORING`
+<pre>
+███╗   ███╗███████╗███████╗ █████╗     ███████╗███████╗ ██████╗
+████╗ ████║██╔════╝██╔════╝██╔══██╗    ██╔════╝██╔════╝██╔════╝
+██╔████╔██║█████╗  ███████╗███████║    ███████╗█████╗  ██║
+██║╚██╔╝██║██╔══╝  ╚════██║██╔══██║    ╚════██║██╔══╝  ██║
+██║ ╚═╝ ██║███████╗███████║██║  ██║    ███████║███████╗╚██████╗
+╚═╝     ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝    ╚══════╝╚══════╝ ╚═════╝
+
+                ⛧  ANONYMOUS SECURITY RESEARCHER  ⛧
+                       IDENTITY: MESA SEC
+                         STATUS: UNKNOWN
+</pre>
+
+<img src="https://img.shields.io/badge/IDENTITY-ANONYMOUS-7C3AED?style=for-the-badge&labelColor=0D0717" />
+<img src="https://img.shields.io/badge/ACCESS-RESTRICTED-9D4EDD?style=for-the-badge&labelColor=0D0717" />
+<img src="https://img.shields.io/badge/DOMAIN-CYBERSECURITY-6D28D9?style=for-the-badge&labelColor=0D0717" />
+
+<br/>
+
+**Observe. Enumerate. Exploit. Investigate. Document.**
+
+*Not here to be noticed. Here to understand what others overlook.*
+
+</div>
 
 ---
 
-I spend my time looking into things most people overlook.
-
-Systems, vulnerabilities, exposed information, strange behavior, and the little details that shouldn't be there.
-
-Mostly interested in:
-
-- Penetration Testing
-- Web Application Security
-- OSINT
-- Bug Bounty
-- Network Security
-- Digital Forensics
-- Red Teaming
-
----
-
-### THE INTERESTS
+## `01 // ABOUT ME`
 
 ```text
-01 / OFFENSIVE SECURITY
-02 / WEB APPLICATIONS
-03 / OPEN SOURCE INTELLIGENCE
-04 / NETWORK INVESTIGATION
-05 / DIGITAL FORENSICS
-06 / ADVERSARY SIMULATION
-```
-
-### FIELD NOTES
-
-I prefer learning by investigating, testing, breaking things in controlled environments, and documenting what I find.
-
-This profile is where I keep selected projects, experiments, notes, and things worth sharing.
-
-No fake badges. No imaginary certifications. Just work.
-
-### CURRENT STATUS
-
-`RESEARCHING` · `BUILDING` · `DOCUMENTING`
-
----
-
-<sub>⛧ No authority. No mythology. Just curiosity and a terminal.</sub>
-
-[github.com/mes4s3c](https://github.com/mes4s3c)
+[+] Identity       : Mesa Sec
+[+] Alias          : mesasec
+[+] Classification : Cybersecurity
+[+] Specialization : Offensive Security & Research
+[+] Status         : Active Learning / Research
+[+] Access Level   : Restricted
